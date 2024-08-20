@@ -359,7 +359,8 @@ while (voce < 2000 && ela < 2000 && ele < 2000) {
         voce += 160
         ela += 110
         ele += 125
-  
+        break
+            
       default:
         alert('Você ficou parado que nem uma bosta')
         ela += 110
